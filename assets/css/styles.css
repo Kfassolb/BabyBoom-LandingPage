@@ -1,0 +1,34 @@
+/*Google-fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Roboto:wght@500;700;900&display=swap');
+
+/*Bootstrap-Icon*/
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: #78a9f3;
+}
+
+h1,h2 {
+    color: #78a9f3;
+}
+
+h3,h4,h5 {
+    color: #c76838;
+}
+
+#img-main-mockup {
+    border-radius: 2rem;
+}
+
+header {
+    background-color: rgba(15, 16, 17, 0.92);
+    height: 40.2rem;
+}
+
+header button {
+    width: 50%;
+}
